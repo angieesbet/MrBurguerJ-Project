@@ -5,9 +5,4 @@ Tampoco cuentan con un respaldo de los registros, por lo que, si llega a suceder
 
 El software que elaborado podrá respaldar la información de las ventas, facilitar el acceso a los datos de los registros, generar una mejor manipulación de los registros, automatizando el proceso de estos y evitando registros duplicados de los clientes
 
-COLABORADORES INVOLUCRADOS:
-Angélica Escribano Betanzos
-Karla Berenice Flandez Lozano
-Rocío Berenice Martínez Jiménez
-Manuel Alejandro Aguirre Rafael
-Juan Esteban Cruz Enríquez
+COLABORADORES INVOLUCRADOS: Angélica Escribano Betanzos, Karla Berenice Flandez Lozano, Rocío Berenice Martínez Jiménez, Manuel Alejandro Aguirre Rafael y Juan Esteban Cruz Enríquez
